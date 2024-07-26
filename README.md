@@ -1,4 +1,5 @@
 # speckleGenetino
+Play on words: Speckle Generator + Tino = SpeckleGenetino
 A sample script to create speckle patterns like the following one:
 
 The script is parameterised according to three variables:
