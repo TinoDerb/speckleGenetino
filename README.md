@@ -12,5 +12,3 @@ The script is parameterised according to three variables:
 A sample image with 0.85 mm dots, 40% density and 100% noise:
 
 ![0.85mmx40%x100%](https://github.com/TinoDerb/speckleGenetino/blob/main/0p85x0p40x1p00.png)
-
-Happy generatin'
